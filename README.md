@@ -50,6 +50,8 @@ CIRCUIT DIAGRAM:
 
 <img width="879" height="507" alt="Expt3d" src="https://github.com/user-attachments/assets/65f867a1-c097-4711-9829-0a5db3e40e18" />
 
+
+
 TABULATION:1
 
 ![WhatsApp Image 2025-12-27 at 2 34 39 PM (1)](https://github.com/user-attachments/assets/59948d18-2dc0-41fd-877d-ed89115708fb)
