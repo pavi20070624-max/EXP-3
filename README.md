@@ -42,7 +42,6 @@ switch2.
 Direct connection:
 
 CIRCUIT DIAGRAM: 
-
 <img width="881" height="567" alt="Expt3a" src="https://github.com/user-attachments/assets/2af2b4db-cc67-4b64-a414-a562f103c5ef" />
 
 <img width="820" height="504" alt="Expt3b" src="https://github.com/user-attachments/assets/4ef145c5-f60e-44f0-8c2e-a4849b02d6cd" />
