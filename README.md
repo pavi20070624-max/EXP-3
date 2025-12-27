@@ -52,8 +52,10 @@ CIRCUIT DIAGRAM:
 
 
 
-TABULATION:1
 
+
+
+TABULATION:1
 ![WhatsApp Image 2025-12-27 at 2 34 39 PM (1)](https://github.com/user-attachments/assets/59948d18-2dc0-41fd-877d-ed89115708fb)
 
 	
@@ -69,8 +71,11 @@ CIRCUIT DIAGRAM:
 
 <img width="950" height="561" alt="Expt3(EX-OR)d" src="https://github.com/user-attachments/assets/ccf9bf95-0b86-4335-924d-b0b744807323" />
 
-TABULATION:2
 
+
+
+
+TABULATION:2
 ![WhatsApp Image 2025-12-27 at 2 34 23 PM](https://github.com/user-attachments/assets/c0f82a9c-9d4d-4375-83e1-7b0cca24ab86)
 
 
